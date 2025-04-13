@@ -1,0 +1,10 @@
+fiftyone:
+  version: ">=1.3.0"
+name: "@adonaivera/fiftyone-vlm-efficient"
+version: "0.1.0"
+description: "Tools to improve data efficiency in vlms training"
+url: "https://github.com/adonaivera/fiftyone-vlm-efficient"
+operators:
+  - caption_with_florence2
+  - sieve_dataset_pruning
+  - caption_to_phrase_grounding_with_florence2
