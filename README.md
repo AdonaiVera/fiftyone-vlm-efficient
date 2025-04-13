@@ -11,7 +11,7 @@ Our goal is to make state-of-the-art data quality techniques accessible to every
 
 ### 1. Dataset Pruning
 
-<img src="https://storage.googleapis.com/tecla/sieve.gif" alt="sieve-pluging" width="600"/>
+![sieve-plugin](https://storage.googleapis.com/tecla/sieve.gif)
 
 - **SIEVE Method** - State-of-the-art multimodal dataset pruning using image captioning models
   - Generates multiple captions for semantic similarity comparison
@@ -121,8 +121,4 @@ The LAION dataset contains high-quality GPT4Vision-generated captions that can b
 
 ## 🤝 Contributing
 
-We welcome contributions! If you're working on VLM training and have techniques that could improve data quality, please reach out.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+We welcome contributions! If you're working on VLM training and have techniques that could improve data quality, please reach out. 
