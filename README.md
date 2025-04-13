@@ -11,7 +11,8 @@ Our goal is to make state-of-the-art data quality techniques accessible to every
 
 ### 1. Dataset Pruning
 
-![sieve-plugin](https://storage.googleapis.com/tecla/sieve.gif)
+<video src="https://storage.googleapis.com/tecla/sieve.mp4" autoplay loop muted playsinline width="600"></video>
+
 
 - **SIEVE Method** - State-of-the-art multimodal dataset pruning using image captioning models
   - Generates multiple captions for semantic similarity comparison
@@ -24,7 +25,7 @@ Our goal is to make state-of-the-art data quality techniques accessible to every
 First, install the base requirements:
 
 ```shell
-pip install -U fiftyone transformers>=4.30.0 accelerate einops timm torch sentence-transformers>=2.2.2 numpy>=1.24.0 Pillow>=9.5.0
+pip install -U fiftyone transformers accelerate einops timm torch sentence-transformers numpy Pillow
 pip install git+https://github.com/openai/CLIP.git
 ```
 
@@ -32,12 +33,6 @@ Then, install the VLM plugin:
 
 ```shell
 fiftyone plugins download https://github.com/AdonaiVera/fiftyone-vlm-efficient
-```
-
-You can also install requirements via:
-
-```shell
-fiftyone plugins requirements @AdonaiVera/fiftyone-vlm-efficient --install
 ```
 
 ## 📚 Research-Backed Techniques
