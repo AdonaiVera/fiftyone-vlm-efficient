@@ -16,18 +16,7 @@ Our goal is to make state-of-the-art data quality techniques accessible to every
   - Efficient dataset filtering based on quality metrics
   - Paper: [SIEVE: Multimodal Dataset Pruning Using Image Captioning Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Mahmoud_Sieve_Multimodal_Dataset_Pruning_using_Image_Captioning_Models_CVPR_2024_paper.pdf)
 
-![sieve-pluging](assets/sieve.gif)
-
-### 2. Prompt Engineering
-- Long-form response generation
-- Multi-granularity annotations
-- Dense annotation support
-- Research-backed prompt templates
-
-### 3. Advanced Pre-processing
-- Dynamic-S2 multi-scale tiling mechanism
-- Adaptive image aspect ratio handling
-- Efficient feature map generation
+![sieve-pluging](https://storage.googleapis.com/tecla/sieve.gif)
 
 ## 🛠️ Installation
 
@@ -102,7 +91,7 @@ dataset = load_from_hub(
     "laion/220k-GPT4Vision-captions-from-LIVIS",
     format="parquet",
     filepath="url",
-    max_samples=10,  # Adjust based on your needs
+    max_samples=10, 
 )
 
 # Launch the FiftyOne app for visualization
