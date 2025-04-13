@@ -11,8 +11,7 @@ Our goal is to make state-of-the-art data quality techniques accessible to every
 
 ### 1. Dataset Pruning
 
-<video src="https://storage.googleapis.com/tecla/sieve.mp4" autoplay loop muted playsinline width="600"></video>
-
+<video src="https://github.com/user-attachments/assets/57b22bca-85dd-4246-a17a-9c07949159e1" autoplay loop muted playsinline width="600"></video>
 
 - **SIEVE Method** - State-of-the-art multimodal dataset pruning using image captioning models
   - Generates multiple captions for semantic similarity comparison
