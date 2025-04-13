@@ -16,7 +16,7 @@ Our goal is to make state-of-the-art data quality techniques accessible to every
   - Efficient dataset filtering based on quality metrics
   - Paper: [SIEVE: Multimodal Dataset Pruning Using Image Captioning Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Mahmoud_Sieve_Multimodal_Dataset_Pruning_using_Image_Captioning_Models_CVPR_2024_paper.pdf)
 
-![sieve-pluging](https://storage.googleapis.com/tecla/sieve.gif)
+<img src="https://storage.googleapis.com/tecla/sieve.gif" alt="sieve-pluging" width="600"/>
 
 ## 🛠️ Installation
 
