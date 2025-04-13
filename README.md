@@ -10,13 +10,14 @@ Our goal is to make state-of-the-art data quality techniques accessible to every
 ## 🚀 Key Features
 
 ### 1. Dataset Pruning
+
+<img src="https://storage.googleapis.com/tecla/sieve.gif" alt="sieve-pluging" width="600"/>
+
 - **SIEVE Method** - State-of-the-art multimodal dataset pruning using image captioning models
   - Generates multiple captions for semantic similarity comparison
   - Fuses with CLIP scores for improved results
   - Efficient dataset filtering based on quality metrics
   - Paper: [SIEVE: Multimodal Dataset Pruning Using Image Captioning Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Mahmoud_Sieve_Multimodal_Dataset_Pruning_using_Image_Captioning_Models_CVPR_2024_paper.pdf)
-
-<img src="https://storage.googleapis.com/tecla/sieve.gif" alt="sieve-pluging" width="600"/>
 
 ## 🛠️ Installation
 
