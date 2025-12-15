@@ -1,3 +1,7 @@
+```{meta}
+:title: FiftyOne VLM Efficient Plugin | VLM Dataset Pruning
+:description: FiftyOne plugin for improving Vision-Language Model data quality using research-backed methods like SIEVE dataset pruning.
+```
 # 🌍 FiftyOne VLM Efficient
 A comprehensive toolkit for improving Vision-Language Model (VLM) training data quality through state-of-the-art research techniques in FiftyOne
 
